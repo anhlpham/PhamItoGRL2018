@@ -8,3 +8,4 @@ Ouput data for GRL manuscript "Parameterizing Multiple Ligand Classes Improves t
 5. GA03_Comb.mat and GA03e_Comb.mat are the model Fe ouput from the Strong scav. + weaker L3 run 
 6. GA03_Fe_stronguptake.mat and GA03e_Stronguptake.mat are the model Fe ouput from the Strong uptake run
 
+The observational and model data are interpolated into the same grid point using the objective mapping method. 
