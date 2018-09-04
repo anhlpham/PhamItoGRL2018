@@ -1,5 +1,5 @@
 # PhamItoGRL2018
-Ouput data for GRL manuscript "Parameterizing Multiple Ligand Classes Improves the Simulation of Dissolved Iron in the Subtropical North Atlantic". Files include:
+Data for the GRL manuscript "Parameterizing Multiple Ligand Classes Improves the Simulation of Dissolved Iron in the Subtropical North Atlantic". The observational and model data are interpolated into the same grid point using the objective mapping method.  Files include:
 
 1. GA03.mat and GA03_e.mat are Fe data from the two GEOTRACES GA03 cruises(zonal and meridional, respectively)
 2. GA03_Control.mat and GA03e_Control.mat: are the model Fe ouput from the Control run
@@ -8,4 +8,3 @@ Ouput data for GRL manuscript "Parameterizing Multiple Ligand Classes Improves t
 5. GA03_Comb.mat and GA03e_Comb.mat are the model Fe ouput from the Strong scav. + weaker L3 run 
 6. GA03_Fe_stronguptake.mat and GA03e_Stronguptake.mat are the model Fe ouput from the Strong uptake run
 
-The observational and model data are interpolated into the same grid point using the objective mapping method. 
