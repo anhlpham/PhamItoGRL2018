@@ -7,4 +7,5 @@ Data for the GRL manuscript "Parameterizing Multiple Ligand Classes Improves the
 4. GA03_WeakerL3 and GA03_e_WeakerL3.mat: are the model iron ouput from the Weaker L3 run
 5. GA03_Comb.mat and GA03e_Comb.mat are the model Fe ouput from the Strong scav. + weaker L3 run 
 6. GA03_Stronguptake.mat and GA03e_Stronguptake.mat are the model Fe ouput from the Strong uptake run
+7. A sample MATLAB script to plot the figure in the paper (using m_map):
 
