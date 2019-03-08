@@ -1,5 +1,5 @@
 # PhamItoGRL2018
-Data for the GRL manuscript "Parameterizing Multiple Ligand Classes Improves the Simulation of Dissolved Iron in the Subtropical North Atlantic". The observational and model data are interpolated into the same grid point using the objective mapping method.  Files include:
+Data for the GRL manuscript "Ligand binding strength explains the distribution of iron in the North Atlantic Ocean". The observational and model data are interpolated into the same grid point using the objective mapping method.  Files include:
 
 1. GA03_obs.mat and GA03e_obs.mat are Fe data from the two GEOTRACES GA03 cruises(zonal and meridional, respectively)
 2. GA03_Control.mat and GA03e_Control.mat: are the model Fe ouput from the Control run
